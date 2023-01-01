@@ -14,4 +14,4 @@ Welcome clone it to run your project.
 
 ## 📑Category
 
-- [Muisc Player](https://github.com/Evileye0666/WebSite-UI/tree/main/Muisc-Player)
+- [Music Player](https://github.com/Evileye0666/WebSite-UI/tree/main/Music-Player)
