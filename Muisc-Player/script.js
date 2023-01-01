@@ -131,7 +131,7 @@ function seekTo() {
   curr_track.currentTime = seekto;
 }
 function setVolume() {
-  curr_track.volume = volume_slider / 100;
+  curr_track.volume = volume_slider.value / 100;
 }
 function randomTrack() {
   isRandom ? pauseRandom() : playRandom();
