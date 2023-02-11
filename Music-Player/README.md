@@ -5,4 +5,4 @@ UI for Music Player\
 Welcome clone it to deploy your project.
 
 # 🧩Example
-[Demo](https://musicplayer.tiiny.site/)
+[Demo](https://music-player-2h2w255s7-evileye0666.vercel.app/)
