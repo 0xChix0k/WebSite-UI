@@ -5,5 +5,4 @@ UI for Music Player\
 Welcome clone it to deploy your project.
 
 # 🧩Example
-[Demo](https://music-player-2h2w255s7-evileye0666.vercel.app/)
-<a href="https://music-player-2h2w255s7-evileye0666.vercel.app/" target="_blank">Demo</a>
+[Demo](https://music-player-2h2w255s7-evileye0666.vercel.app/){:target="_blank"}
